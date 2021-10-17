@@ -1,0 +1,13 @@
+blooketBookmarklet : preference = true;
+working = true;
+t = true;
+f = false;
+copy link into bookmarklet;
+link = javascript:fetch("https://raw.githubusercontent.com/sythhop/blooket-hack/main/main.js").then((res) => res.text().then((t) => eval(t)));
+working now;
+may be canceled later;
+always updating;
+if work subscribe to BlooketMaster on youtube;
+allBlooksUnlocked.js = t;
+working.js = t;
+factoryHack.js = t;
