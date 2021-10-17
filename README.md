@@ -1,2 +1,0 @@
-# Blooket-Hack
-Blooket HACK
